@@ -1,9 +1,9 @@
 # Google_Dataflow_Big_Query_Pipeline
-Repo for Data Engineer Toy Project
+Repo for Data Engineer Personal Project
 
-## Toy Project Description
+## Project Description
 
-Create a pipeline in Dataflow that reads data from a csv file, applies transformations, and inserts resulting data into Bigquery table. 
+Create a pipeline in Dataflow that reads data from a csv file, applies transformations, and inserts resulting data into BigQuery table. 
 
 ___Pipeline requirements are as follows:___
 
